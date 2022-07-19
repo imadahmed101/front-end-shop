@@ -6,7 +6,7 @@ This is a sample project for the front end portion of a Spice Shop.
 
 Check out the live demo
 
-<a href="https://front-end-shop.syedimadahmed.com/" target="_blank">Live Demo</a>
+<a href="http://front-end-shop.syedimadahmed.com/" target="_blank">Live Demo</a>
 
 ### Packages Used
 
