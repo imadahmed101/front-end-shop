@@ -2,7 +2,13 @@
 
 This is a sample project for the front end portion of a Spice Shop.
 
-## Packages Used
+## Live Demo
+
+Check out the live demo
+
+<a href="https://front-end-shop.syedimadahmed.com/" target="_blank">Live Demo</a>
+
+### Packages Used
 
 This project Utilizes:
 
